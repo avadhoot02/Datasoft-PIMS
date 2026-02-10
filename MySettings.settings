@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="Datasoft_PIMS.My" GeneratedClassName="MySettings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sConfigConStr" Type="(Connection string)" Scope="Application">
+      <Value Profile="(Default)">Data Source=ANWAR-PC\SQLEXPRESS;Initial Catalog=DatasoftTnT;Integrated Security =True</Value>
+    </Setting>
+    <Setting Name="sConfigCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Anwar</Value>
+    </Setting>
+    <Setting Name="sConfigMailHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Datacode</Value>
+    </Setting>
+    <Setting Name="sConfigQRUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://datacodeindia.com</Value>
+    </Setting>
+    <Setting Name="sPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="sConfigIsSandbox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

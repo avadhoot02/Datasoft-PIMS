@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CachedrptClosingStock.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptCOA.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptConsumption.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptIssue.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptPO02.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptPO04.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptPO04Bkp.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptQC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptQuarantineStock.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CachedrptTest.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
